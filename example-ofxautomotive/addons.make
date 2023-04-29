@@ -1,0 +1,4 @@
+ofxPoco
+ofxIO
+ofxAutomobile
+ofxSerial
